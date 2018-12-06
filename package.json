@@ -5,7 +5,9 @@
   "author": "Samlihang <316461408@qq.com>",
   "private": true,
   "scripts": {
-    "dev": "winupon"
+    "dev": "winupon dev",
+    "build": "winupon build",
+    "start": "winupon start"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
